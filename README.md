@@ -1,2 +1,2 @@
-# Learning_GetHub
+#Learning_GitHub
 Ways of understanding GetHub and Command line
