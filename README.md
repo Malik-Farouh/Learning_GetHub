@@ -1,2 +1,2 @@
 #Learning_GitHub
-Ways of understanding GetHub and Command line
+Ways of understanding GitHub and Command line
